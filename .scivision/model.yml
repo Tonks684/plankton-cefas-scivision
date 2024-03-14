@@ -1,5 +1,5 @@
 name: resnet50_cefas_model
-url: https://github.com/alan-turing-institute/plankton-cefas-scivision
+url: https://github.com/Tonks684/plankton-cefas-scivision/
 import: resnet50_cefas
 model: resnet50
 args:
